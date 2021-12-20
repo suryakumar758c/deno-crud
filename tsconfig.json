@@ -1,0 +1,7 @@
+{
+  "module": "esnext",
+  "compilerOptions": {
+    "target": "es2018"
+  },
+  "files": ["types.d.ts"]
+}
